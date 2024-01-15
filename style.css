@@ -91,6 +91,7 @@ section {
   url("Shop\ Cover.jpg");
   width: 100vw;
   background-size: cover;
+  background-position: center;
   height: 100vh;
 }
 
@@ -106,13 +107,12 @@ section {
   width: 100vw;
 }
 .main {
-  width: 90vw;
-  margin-top: 250px;
+  width: 100vw;
   height: 100vh;
 }
 .swiper {
   width: 80%;
-  height: 600px;
+  height: 85%;
   margin: 20px auto;
 }
 
@@ -124,7 +124,7 @@ section {
 }
 
 .swiper-slide {
-  max-width: 433px;
+  max-width: 350px;
   text-align: center;
   font-size: 18px;
   background: #fff;
@@ -133,6 +133,7 @@ section {
   align-items: center;
   border-radius: 20px;
   overflow: hidden;
+  height: 80% !important;
 }
 
 .append-buttons {
