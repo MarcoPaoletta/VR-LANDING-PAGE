@@ -125,7 +125,7 @@ section {
 
 .swiper-slide {
   max-width: 350px;
-  text-align: center;
+  text-align: left;
   font-size: 18px;
   background: #fff;
   display: flex;
